@@ -1,5 +1,5 @@
 all:
-	gcc -o so2 so2.c
+	gcc -o so2_tema1 so2_tema1.c
 
 clean:
-	rm so2
+	rm so2_tema1
